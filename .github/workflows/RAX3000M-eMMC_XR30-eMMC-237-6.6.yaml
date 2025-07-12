@@ -68,7 +68,7 @@ env:
   REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x-6.6
   REPO_BRANCH: openwrt-24.10-6.6
   FEEDS_CONF: RAX3000M-eMMC_XR30-eMMC-hanwckf/feeds.conf.default
-  RAX3000M_EMMC_DTS_FILE: target/linux/mediatek/dts/mt7981b-umi-uax3000e.dts
+  RAX3000M_EMMC_DTS_FILE: target/linux/mediatek/dts
   CONFIG_FILE: RAX3000M-eMMC_XR30-eMMC-hanwckf/.mtwifi-cfg.config
   DIY_P1_SH: RAX3000M-eMMC_XR30-eMMC-hanwckf/diy-part1.sh
   DIY_P2_SH: RAX3000M-eMMC_XR30-eMMC-hanwckf/diy-part2.sh
